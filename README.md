@@ -68,17 +68,6 @@ The designs were created with a focus on:
 
 ---
 
-## 📁 Repository Structure
-
-ui-ux-designs/
-├── README.md
-├── Movie-Booking-UI/
-│   └── movie-booking.png
-└── Bookstore-UI/
-    └── bookstore-ui.png
-
----
-
 ## 👨‍💻 Author
 
 **Harshit Saini**
