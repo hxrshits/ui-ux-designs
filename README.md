@@ -39,7 +39,7 @@ A modern bookstore website concept designed with a custom visual design system a
 
 **Tool:** Figma
 
-**🔗 Interactive Prototype:** [View Bookstore Prototype →](https://www.figma.com/proto/FnOy1y3tonxmAWBU6obi0T/Untitled?node-id=2-2&starting-point-node-id=2%3A2)
+**🔗 Interactive Prototype:** [View Bookstore Prototype →]  https://www.figma.com/proto/qaB8HiJ1ySOYcofGsXkATy/Untitled?node-id=4-74&t=dLDzBRlLXTHiBR5v-1
 
 ---
 
