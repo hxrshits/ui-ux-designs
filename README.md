@@ -19,7 +19,7 @@ A movie discovery and booking interface designed to provide users with an easy w
 
 **Tool:** Figma
 
-**🔗 Interactive Prototype:** [View Movie Booking Prototype →](MOVIE_BOOKING_FIGMA_LINK)
+**🔗 Interactive Prototype:** [View Movie Booking Prototype →]  https://www.figma.com/proto/FnOy1y3tonxmAWBU6obi0T/Untitled?node-id=2-2&starting-point-node-id=2%3A2&t=otf6rwGiiaxcync1-1
 
 ---
 
